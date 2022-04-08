@@ -1,6 +1,9 @@
-## my circuit list
-
-- `Elgamal Enc Dec'
+# my circuit implement
+	in JsnarkCircuitBuilder/src/examples/generator
+- `Elgamal Enc Dec` 
+- `rsa Enc Dec` : longElement mod Power 
+- `zeroCash`	: zeroCahs snark relation implement
+- `MerkleTree generator` : merkletree generation
 
 ## jsnark
 
