@@ -1,9 +1,11 @@
 # my circuit implement
-	in JsnarkCircuitBuilder/src/examples/generator
+	$cd JsnarkCircuitBuilder/src/examples/generator
 - `Elgamal Enc Dec` 
 - `rsa Enc Dec` : longElement mod Power 
-- `zeroCash`	: zeroCahs snark relation implement
+- `zeroCash`	: zeroCahs PiPour snark relation implement
 - `MerkleTree generator` : merkletree generation
+
+
 
 ## jsnark
 
